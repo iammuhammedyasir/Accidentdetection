@@ -6,7 +6,7 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth"; // ✅ import getAuth
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAp0P3-Im59i5xXAjs_MsjP3VFefcfpM2E",
+  apiKey: "Google API key",
   authDomain: "accident2025-14308.firebaseapp.com",
   projectId: "accident2025-14308",
   storageBucket: "accident2025-14308.appspot.com",

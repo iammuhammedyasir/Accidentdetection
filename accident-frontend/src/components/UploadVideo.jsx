@@ -33,7 +33,7 @@ function UploadVideo() {
   const [marker, setMarker] = useState(null);
 
   const { isLoaded } = useJsApiLoader({
-    googleMapsApiKey: "AIzaSyAyDTTrtQjoe-_uGCipivX0ZjUPBSvVP7E", // Replace with your API key
+    googleMapsApiKey: "Google API key", // Replace with your API key
   });
 
   const handleFileChange = (e) => {
